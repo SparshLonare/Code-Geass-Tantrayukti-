@@ -1,4 +1,4 @@
-# Wakeup SID!!
+# Wakeup SID!!   
 
 A real-time fatigue and drowsiness monitoring system for drivers or operators. The project uses a webcam or sample video feed, tracks the user’s face with MediaPipe and OpenCV, and estimates alertness based on eye closure, yawning, and head nod patterns.
 
